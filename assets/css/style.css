@@ -1,0 +1,15 @@
+.container {
+	
+	background-repeat: no-repeat;
+}
+
+#takingcredit {
+	position:absolute;
+	bottom:10px;
+	right:40px;
+}
+
+.btn {
+	color:white;
+	border-color: white;
+}
